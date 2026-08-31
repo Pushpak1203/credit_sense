@@ -1,0 +1,43 @@
+# Python virtual environment
+env/
+venv/
+.venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.env
+.env.*
+*.pem
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Optional: large ML artifacts if you do not want to store generated model files in GitHub
+# model/artifacts/*.joblib
+# model/artifacts/*.pkl
+# data/*.csv

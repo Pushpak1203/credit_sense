@@ -1,0 +1,9 @@
+[
+  "monthly_income",
+  "repayment_history_score",
+  "utility_bill_regularity",
+  "years_in_business",
+  "debt_to_income_ratio",
+  "group_membership",
+  "income_stability_score"
+]
